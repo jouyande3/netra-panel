@@ -181,7 +181,7 @@ Questions or issues? Reach out on Telegram: **[@NetraIR](https://t.me/NetraIR)**
 </details>
 
 ---
-
+.
 <details>
 <summary><strong>🇨🇳 中文</strong></summary>
 <a id="lang-zh"></a>
