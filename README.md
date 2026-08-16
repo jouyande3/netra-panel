@@ -37,7 +37,7 @@ A free, self-hosted VLESS / Trojan proxy panel that runs entirely on **Cloudflar
 * ️ **Full web panel** — manage everything (UUID, password, ports, DNS, routing rules, bypass/block lists) without touching code
 * **One-click deploy** — works with sensible defaults right after deployment, no separate setup wizard required
 * **Optional panel password** — protect your panel, or skip it if you're the only one with the URL
-
+.
 ---
 
 ### Deploy
